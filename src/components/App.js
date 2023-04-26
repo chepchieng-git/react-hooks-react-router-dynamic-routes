@@ -26,3 +26,6 @@ function App() {
 }
 
 export default App;
+
+// In the top-level component (App.js in this case), 
+// create our "parent" routes and render <MoviesPage>
